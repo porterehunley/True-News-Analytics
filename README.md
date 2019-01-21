@@ -18,13 +18,12 @@ This file is complete.
 
 ### TweetCollection - Partially Completed
 
-TweetCollection gathers and parses data pertaining to each of the news stories. As of now, the search function is a simplified version
-of the news title.
+TweetCollection gathers and parses the Tweets pertaining to each of the news stories. As of now, the search query is a simplified version of the news title.
 
-In the future, I wish to add more searching capabilities to look at relevant tweets that do not contain the title of the news story.
+In the future, I wish to add more searching capabilities to look at relevant Tweets that do not contain the title of the news story.
 
 
 ### Analysis - In Progress
 
-Analysis generates a relevance score based on the pattern and frequency of relevant tweets. It is not functional right now. 
+Analysis generates a relevance score based on the pattern and frequency of relevant Tweets. It is not functional right now. 
 
